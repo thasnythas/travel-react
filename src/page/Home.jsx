@@ -9,7 +9,7 @@ import "./home.css"
 function Home() {
   return (
     <>
-      <div>
+      <div className='mt-5 p-55'>
         <img
           src="https://cdn-lnp.dataweavers.io/-/media/images/london/visit/things-to-do/london-areas/river-thames/london-skyline-a-1920x582.jpg?rev=e4bde25136ba4f5a931b66a7cfff8e66&mw=1920&hash=DA9CA22BB074B71351826CCF4B956B7D"
           alt="London Skyline"

@@ -26,12 +26,12 @@ function Footer() {
               </Link>
             </h4>
             <h4>
-              <Link to="/service" style={{ textDecoration: 'none', color: 'white', fontSize: 'small', fontWeight: 'bold' }}>
+              <Link to="/service1" style={{ textDecoration: 'none', color: 'white', fontSize: 'small', fontWeight: 'bold' }}>
                 Service
               </Link>
             </h4>
             <h4>
-              <Link to="/login1" style={{ textDecoration: 'none', color: 'white', fontSize: 'small', fontWeight: 'bold' }}>
+              <Link to="Login1" style={{ textDecoration: 'none', color: 'white', fontSize: 'small', fontWeight: 'bold' }}>
                 Login
               </Link>
             </h4>
