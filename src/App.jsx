@@ -7,8 +7,9 @@ import Service from './page/Service'
 import Home from './page/Home'
 import Details from './page/Details'
 import Login from './page/login';
+import Register from './page/register';
 
-import Register from './page/register'
+
 
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
   <Route path='/' element={<Home />} />
   <Route path='/Details1' element={<Details />} />
   <Route path='/Login1' element={<Login />} />
-  <Route path='/register1' element={<Register />} />
+  <Route path='/register1' element={<Register/>} />
   <Route path='/service1' element={<Service />} />
 </Routes>
 
