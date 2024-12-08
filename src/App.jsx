@@ -6,7 +6,8 @@ import { Route, Routes } from 'react-router-dom'
 import Service from './page/Service'
 import Home from './page/Home'
 import Details from './page/Details'
-import Login from './page/login'
+import Login from './page/login';
+
 import Register from './page/register'
 
 
